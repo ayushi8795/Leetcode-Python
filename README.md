@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/ayushi8795/Leetcode-Python/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/ayushi8795/Leetcode-Python/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayushi8795/Leetcode-Python/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushi8795/Leetcode-Python/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0234-palindrome-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/2000-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0922-sort-array-by-parity-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/ayushi8795/Leetcode-Python/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/ayushi8795/Leetcode-Python/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3794-reverse-string-prefix](https://github.com/ayushi8795/Leetcode-Python/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
