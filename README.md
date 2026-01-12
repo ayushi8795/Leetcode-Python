@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayushi8795/Leetcode-Python/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3794-reverse-string-prefix](https://github.com/ayushi8795/Leetcode-Python/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/ayushi8795/Leetcode-Python/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0345-reverse-vowels-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/ayushi8795/Leetcode-Python/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
