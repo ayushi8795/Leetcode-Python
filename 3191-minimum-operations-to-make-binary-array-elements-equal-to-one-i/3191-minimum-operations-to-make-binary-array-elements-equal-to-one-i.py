@@ -10,7 +10,7 @@ class Solution:
                         nums[j] = 0
                 count = count + 1
         
-        if not 0 in nums:
+        if 0 not in nums:
             return count
         else:
             return -1
