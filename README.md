@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayushi8795/Leetcode-Python/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushi8795/Leetcode-Python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0904-fruit-into-baskets](https://github.com/ayushi8795/Leetcode-Python/tree/master/0904-fruit-into-baskets) |
+| [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Array
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/ayushi8795/Leetcode-Python/tree/master/1089-duplicate-zeros) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1652-defuse-the-bomb](https://github.com/ayushi8795/Leetcode-Python/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/ayushi8795/Leetcode-Python/tree/master/1732-find-the-highest-altitude) |
