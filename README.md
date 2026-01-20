@@ -63,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
 ## Array
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
 ## Recursion
 |  |
 | ------- |
