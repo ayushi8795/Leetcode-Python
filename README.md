@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayushi8795/Leetcode-Python/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1332-remove-palindromic-subsequences](https://github.com/ayushi8795/Leetcode-Python/tree/master/1332-remove-palindromic-subsequences) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushi8795/Leetcode-Python/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0359-logger-rate-limiter](https://github.com/ayushi8795/Leetcode-Python/tree/master/0359-logger-rate-limiter) |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/ayushi8795/Leetcode-Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/ayushi8795/Leetcode-Python/tree/master/0904-fruit-into-baskets) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushi8795/Leetcode-Python/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
