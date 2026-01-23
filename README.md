@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/ayushi8795/Leetcode-Python/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/3110-score-of-a-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ayushi8795/Leetcode-Python/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/ayushi8795/Leetcode-Python/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayushi8795/Leetcode-Python/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/3477-fruits-into-baskets-ii) |
 | [3687-library-late-fee-calculator](https://github.com/ayushi8795/Leetcode-Python/tree/master/3687-library-late-fee-calculator) |
+| [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
