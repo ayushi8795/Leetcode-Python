@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/0013-roman-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushi8795/Leetcode-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/2485-find-the-pivot-integer) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushi8795/Leetcode-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ayushi8795/Leetcode-Python/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
