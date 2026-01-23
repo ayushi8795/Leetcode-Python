@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayushi8795/Leetcode-Python/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/3477-fruits-into-baskets-ii) |
+| [3687-library-late-fee-calculator](https://github.com/ayushi8795/Leetcode-Python/tree/master/3687-library-late-fee-calculator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1929-concatenation-of-array) |
 | [3028-ant-on-the-boundary](https://github.com/ayushi8795/Leetcode-Python/tree/master/3028-ant-on-the-boundary) |
 | [3477-fruits-into-baskets-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/3477-fruits-into-baskets-ii) |
+| [3687-library-late-fee-calculator](https://github.com/ayushi8795/Leetcode-Python/tree/master/3687-library-late-fee-calculator) |
 ## Ordered Set
 |  |
 | ------- |
