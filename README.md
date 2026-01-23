@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1652-defuse-the-bomb](https://github.com/ayushi8795/Leetcode-Python/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/ayushi8795/Leetcode-Python/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/ayushi8795/Leetcode-Python/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1929-concatenation-of-array) |
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushi8795/Leetcode-Python/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/ayushi8795/Leetcode-Python/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
