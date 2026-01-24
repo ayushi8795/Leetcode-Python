@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3062-winner-of-the-linked-list-game](https://github.com/ayushi8795/Leetcode-Python/tree/master/3062-winner-of-the-linked-list-game) |
 | [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 ## Recursion
