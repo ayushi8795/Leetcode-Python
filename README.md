@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/ayushi8795/Leetcode-Python/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushi8795/Leetcode-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/ayushi8795/Leetcode-Python/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ayushi8795/Leetcode-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushi8795/Leetcode-Python/tree/master/1021-remove-outermost-parentheses) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ayushi8795/Leetcode-Python/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2011-final-value-of-variable-after-performing-operations) |
