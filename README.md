@@ -308,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3263-convert-doubly-linked-list-to-array-i) |
+## Database
+|  |
+| ------- |
+| [1350-students-with-invalid-departments](https://github.com/ayushi8795/Leetcode-Python/tree/master/1350-students-with-invalid-departments) |
 <!---LeetCode Topics End-->
