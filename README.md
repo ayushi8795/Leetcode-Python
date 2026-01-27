@@ -311,5 +311,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/ayushi8795/Leetcode-Python/tree/master/0175-combine-two-tables) |
 | [1350-students-with-invalid-departments](https://github.com/ayushi8795/Leetcode-Python/tree/master/1350-students-with-invalid-departments) |
 <!---LeetCode Topics End-->
