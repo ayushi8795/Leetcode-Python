@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ayushi8795/Leetcode-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/ayushi8795/Leetcode-Python/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/ayushi8795/Leetcode-Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/ayushi8795/Leetcode-Python/tree/master/0904-fruit-into-baskets) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ayushi8795/Leetcode-Python/tree/master/0485-max-consecutive-ones) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ayushi8795/Leetcode-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/ayushi8795/Leetcode-Python/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ayushi8795/Leetcode-Python/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/ayushi8795/Leetcode-Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0706-design-hashmap) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ayushi8795/Leetcode-Python/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/ayushi8795/Leetcode-Python/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/ayushi8795/Leetcode-Python/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0922-sort-array-by-parity-ii) |
 ## Linked List
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ayushi8795/Leetcode-Python/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushi8795/Leetcode-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ayushi8795/Leetcode-Python/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
