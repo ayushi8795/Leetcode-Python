@@ -13,9 +13,9 @@ class Solution:
                 if nums[mid] == target:
                     pos = mid
                     if find_first:
-                        right = right-1
+                        right = mid-1
                     else:
-                        left = left +1
+                        left = mid +1
                 elif nums[mid] > target:
                     right = right -1
                 else:
