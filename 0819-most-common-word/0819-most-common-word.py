@@ -4,7 +4,7 @@ class Solution:
         for char in paragraph:
             if not char.isalnum():
                 paragraph = paragraph.replace(char, " ")
-        paragraph = paragraph.lower().split(" ")
+        paragraph = paragraph.lower().split()
     
         for i in paragraph:
             if i not in banned and i.isalnum():
