@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ayushi8795/Leetcode-Python/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ayushi8795/Leetcode-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0819-most-common-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0819-most-common-word) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushi8795/Leetcode-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/ayushi8795/Leetcode-Python/tree/master/1108-defanging-an-ip-address) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ayushi8795/Leetcode-Python/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/ayushi8795/Leetcode-Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0706-design-hashmap) |
+| [0819-most-common-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/ayushi8795/Leetcode-Python/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ayushi8795/Leetcode-Python/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/ayushi8795/Leetcode-Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/ayushi8795/Leetcode-Python/tree/master/0724-find-pivot-index) |
+| [0819-most-common-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0819-most-common-word) |
 | [0896-monotonic-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/ayushi8795/Leetcode-Python/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/ayushi8795/Leetcode-Python/tree/master/0905-sort-array-by-parity) |
