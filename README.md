@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ayushi8795/Leetcode-Python/tree/master/0125-valid-palindrome) |
+| [0161-one-edit-distance](https://github.com/ayushi8795/Leetcode-Python/tree/master/0161-one-edit-distance) |
 | [0242-valid-anagram](https://github.com/ayushi8795/Leetcode-Python/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/ayushi8795/Leetcode-Python/tree/master/0243-shortest-word-distance) |
 | [0344-reverse-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0344-reverse-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayushi8795/Leetcode-Python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ayushi8795/Leetcode-Python/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushi8795/Leetcode-Python/tree/master/0160-intersection-of-two-linked-lists) |
+| [0161-one-edit-distance](https://github.com/ayushi8795/Leetcode-Python/tree/master/0161-one-edit-distance) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushi8795/Leetcode-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ayushi8795/Leetcode-Python/tree/master/0283-move-zeroes) |
