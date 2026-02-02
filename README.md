@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ayushi8795/Leetcode-Python/tree/master/0485-max-consecutive-ones) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ayushi8795/Leetcode-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0622-design-circular-queue](https://github.com/ayushi8795/Leetcode-Python/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/ayushi8795/Leetcode-Python/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ayushi8795/Leetcode-Python/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/ayushi8795/Leetcode-Python/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ayushi8795/Leetcode-Python/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushi8795/Leetcode-Python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/ayushi8795/Leetcode-Python/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/ayushi8795/Leetcode-Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0876-middle-of-the-linked-list) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0359-logger-rate-limiter](https://github.com/ayushi8795/Leetcode-Python/tree/master/0359-logger-rate-limiter) |
+| [0622-design-circular-queue](https://github.com/ayushi8795/Leetcode-Python/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/ayushi8795/Leetcode-Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0706-design-hashmap) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/ayushi8795/Leetcode-Python/tree/master/0622-design-circular-queue) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
