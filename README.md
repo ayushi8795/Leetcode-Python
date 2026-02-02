@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ayushi8795/Leetcode-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0819-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/ayushi8795/Leetcode-Python/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushi8795/Leetcode-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushi8795/Leetcode-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ayushi8795/Leetcode-Python/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushi8795/Leetcode-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/1441-build-an-array-with-stack-operations) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ayushi8795/Leetcode-Python/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0922-sort-array-by-parity-ii) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ayushi8795/Leetcode-Python/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushi8795/Leetcode-Python/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1920-build-array-from-permutation) |
