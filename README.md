@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushi8795/Leetcode-Python/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ayushi8795/Leetcode-Python/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushi8795/Leetcode-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushi8795/Leetcode-Python/tree/master/0162-find-peak-element) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/ayushi8795/Leetcode-Python/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushi8795/Leetcode-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ayushi8795/Leetcode-Python/tree/master/3173-bitwise-or-of-adjacent-elements) |
