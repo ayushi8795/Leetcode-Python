@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayushi8795/Leetcode-Python/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/ayushi8795/Leetcode-Python/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2942-find-words-containing-character](https://github.com/ayushi8795/Leetcode-Python/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/3174-clear-digits) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushi8795/Leetcode-Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/ayushi8795/Leetcode-Python/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/3174-clear-digits) |
 ## Two Pointers
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/ayushi8795/Leetcode-Python/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3028-ant-on-the-boundary](https://github.com/ayushi8795/Leetcode-Python/tree/master/3028-ant-on-the-boundary) |
 | [3174-clear-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/3174-clear-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/3477-fruits-into-baskets-ii) |
