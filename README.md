@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ayushi8795/Leetcode-Python/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0359-logger-rate-limiter](https://github.com/ayushi8795/Leetcode-Python/tree/master/0359-logger-rate-limiter) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0243-shortest-word-distance](https://github.com/ayushi8795/Leetcode-Python/tree/master/0243-shortest-word-distance) |
 | [0283-move-zeroes](https://github.com/ayushi8795/Leetcode-Python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ayushi8795/Leetcode-Python/tree/master/0485-max-consecutive-ones) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0876-middle-of-the-linked-list) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ayushi8795/Leetcode-Python/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ayushi8795/Leetcode-Python/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushi8795/Leetcode-Python/tree/master/0374-guess-number-higher-or-lower) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/ayushi8795/Leetcode-Python/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayushi8795/Leetcode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushi8795/Leetcode-Python/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/ayushi8795/Leetcode-Python/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0888-fair-candy-swap) |
