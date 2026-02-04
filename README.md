@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0359-logger-rate-limiter](https://github.com/ayushi8795/Leetcode-Python/tree/master/0359-logger-rate-limiter) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ayushi8795/Leetcode-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/ayushi8795/Leetcode-Python/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/ayushi8795/Leetcode-Python/tree/master/0705-design-hashset) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ayushi8795/Leetcode-Python/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0487-max-consecutive-ones-ii) |
+| [0496-next-greater-element-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ayushi8795/Leetcode-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/ayushi8795/Leetcode-Python/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/ayushi8795/Leetcode-Python/tree/master/0645-set-mismatch) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushi8795/Leetcode-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ayushi8795/Leetcode-Python/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushi8795/Leetcode-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -441,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0487-max-consecutive-ones-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0487-max-consecutive-ones-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
