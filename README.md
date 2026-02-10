@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ayushi8795/Leetcode-Python/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0941-valid-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushi8795/Leetcode-Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/ayushi8795/Leetcode-Python/tree/master/1051-height-checker) |
 | [1064-fixed-point](https://github.com/ayushi8795/Leetcode-Python/tree/master/1064-fixed-point) |
 | [1089-duplicate-zeros](https://github.com/ayushi8795/Leetcode-Python/tree/master/1089-duplicate-zeros) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushi8795/Leetcode-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0888-fair-candy-swap) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushi8795/Leetcode-Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1064-fixed-point](https://github.com/ayushi8795/Leetcode-Python/tree/master/1064-fixed-point) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1213-intersection-of-three-sorted-arrays) |
