@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushi8795/Leetcode-Python/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1539-kth-missing-positive-number) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1652-defuse-the-bomb](https://github.com/ayushi8795/Leetcode-Python/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/ayushi8795/Leetcode-Python/tree/master/1672-richest-customer-wealth) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushi8795/Leetcode-Python/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
