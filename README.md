@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/ayushi8795/Leetcode-Python/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/ayushi8795/Leetcode-Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/ayushi8795/Leetcode-Python/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/ayushi8795/Leetcode-Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/ayushi8795/Leetcode-Python/tree/master/0933-number-of-recent-calls) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
 ## Bit Manipulation
