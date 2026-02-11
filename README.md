@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0941-valid-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushi8795/Leetcode-Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/ayushi8795/Leetcode-Python/tree/master/1051-height-checker) |
+| [1063-number-of-valid-subarrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1063-number-of-valid-subarrays) |
 | [1064-fixed-point](https://github.com/ayushi8795/Leetcode-Python/tree/master/1064-fixed-point) |
 | [1089-duplicate-zeros](https://github.com/ayushi8795/Leetcode-Python/tree/master/1089-duplicate-zeros) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushi8795/Leetcode-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1063-number-of-valid-subarrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1063-number-of-valid-subarrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushi8795/Leetcode-Python/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/ayushi8795/Leetcode-Python/tree/master/1544-make-the-string-great) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ayushi8795/Leetcode-Python/tree/master/0739-daily-temperatures) |
+| [1063-number-of-valid-subarrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1063-number-of-valid-subarrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushi8795/Leetcode-Python/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ayushi8795/Leetcode-Python/tree/master/1762-buildings-with-an-ocean-view) |
 <!---LeetCode Topics End-->
