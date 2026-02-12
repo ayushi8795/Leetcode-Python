@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/ayushi8795/Leetcode-Python/tree/master/0904-fruit-into-baskets) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1213-intersection-of-three-sorted-arrays) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayushi8795/Leetcode-Python/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/ayushi8795/Leetcode-Python/tree/master/1089-duplicate-zeros) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1213-intersection-of-three-sorted-arrays) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayushi8795/Leetcode-Python/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayushi8795/Leetcode-Python/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1313-decompress-run-length-encoded-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/1313-decompress-run-length-encoded-list) |
@@ -504,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-number-of-valid-subarrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1063-number-of-valid-subarrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushi8795/Leetcode-Python/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ayushi8795/Leetcode-Python/tree/master/1762-buildings-with-an-ocean-view) |
+## Greedy
+|  |
+| ------- |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayushi8795/Leetcode-Python/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 <!---LeetCode Topics End-->
