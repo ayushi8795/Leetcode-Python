@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushi8795/Leetcode-Python/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ayushi8795/Leetcode-Python/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/1441-build-an-array-with-stack-operations) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/ayushi8795/Leetcode-Python/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ayushi8795/Leetcode-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1063-number-of-valid-subarrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1063-number-of-valid-subarrays) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushi8795/Leetcode-Python/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/ayushi8795/Leetcode-Python/tree/master/1544-make-the-string-great) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/ayushi8795/Leetcode-Python/tree/master/0933-number-of-recent-calls) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
 ## Bit Manipulation
 |  |
