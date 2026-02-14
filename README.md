@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0243-shortest-word-distance](https://github.com/ayushi8795/Leetcode-Python/tree/master/0243-shortest-word-distance) |
 | [0283-move-zeroes](https://github.com/ayushi8795/Leetcode-Python/tree/master/0283-move-zeroes) |
+| [0346-moving-average-from-data-stream](https://github.com/ayushi8795/Leetcode-Python/tree/master/0346-moving-average-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0414-third-maximum-number) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ayushi8795/Leetcode-Python/tree/master/0155-min-stack) |
+| [0346-moving-average-from-data-stream](https://github.com/ayushi8795/Leetcode-Python/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/ayushi8795/Leetcode-Python/tree/master/0359-logger-rate-limiter) |
 | [0622-design-circular-queue](https://github.com/ayushi8795/Leetcode-Python/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/ayushi8795/Leetcode-Python/tree/master/0705-design-hashset) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/ayushi8795/Leetcode-Python/tree/master/0346-moving-average-from-data-stream) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/ayushi8795/Leetcode-Python/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/ayushi8795/Leetcode-Python/tree/master/0933-number-of-recent-calls) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/ayushi8795/Leetcode-Python/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/ayushi8795/Leetcode-Python/tree/master/0359-logger-rate-limiter) |
 | [0933-number-of-recent-calls](https://github.com/ayushi8795/Leetcode-Python/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
