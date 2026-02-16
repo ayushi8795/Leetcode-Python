@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushi8795/Leetcode-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/ayushi8795/Leetcode-Python/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ayushi8795/Leetcode-Python/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushi8795/Leetcode-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0487-max-consecutive-ones-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0487-max-consecutive-ones-ii) |
+| [0509-fibonacci-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -528,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayushi8795/Leetcode-Python/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
