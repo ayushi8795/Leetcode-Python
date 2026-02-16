@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayushi8795/Leetcode-Python/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushi8795/Leetcode-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ayushi8795/Leetcode-Python/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ayushi8795/Leetcode-Python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayushi8795/Leetcode-Python/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ayushi8795/Leetcode-Python/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ayushi8795/Leetcode-Python/tree/master/0412-fizz-buzz) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ayushi8795/Leetcode-Python/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/ayushi8795/Leetcode-Python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayushi8795/Leetcode-Python/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0509-fibonacci-number) |
