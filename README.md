@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0487-max-consecutive-ones-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0487-max-consecutive-ones-ii) |
 | [0904-fruit-into-baskets](https://github.com/ayushi8795/Leetcode-Python/tree/master/0904-fruit-into-baskets) |
 | [1652-defuse-the-bomb](https://github.com/ayushi8795/Leetcode-Python/tree/master/1652-defuse-the-bomb) |
+| [1852-distinct-numbers-in-each-subarray](https://github.com/ayushi8795/Leetcode-Python/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayushi8795/Leetcode-Python/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1817-finding-the-users-active-minutes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1817-finding-the-users-active-minutes) |
+| [1852-distinct-numbers-in-each-subarray](https://github.com/ayushi8795/Leetcode-Python/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayushi8795/Leetcode-Python/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/ayushi8795/Leetcode-Python/tree/master/1732-find-the-highest-altitude) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ayushi8795/Leetcode-Python/tree/master/1762-buildings-with-an-ocean-view) |
 | [1817-finding-the-users-active-minutes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1817-finding-the-users-active-minutes) |
+| [1852-distinct-numbers-in-each-subarray](https://github.com/ayushi8795/Leetcode-Python/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1920-build-array-from-permutation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1961-check-if-string-is-a-prefix-of-array) |
