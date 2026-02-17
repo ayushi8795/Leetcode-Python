@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ayushi8795/Leetcode-Python/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ayushi8795/Leetcode-Python/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ayushi8795/Leetcode-Python/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushi8795/Leetcode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushi8795/Leetcode-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushi8795/Leetcode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0487-max-consecutive-ones-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0487-max-consecutive-ones-ii) |
 | [0509-fibonacci-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
