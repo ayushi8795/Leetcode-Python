@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ayushi8795/Leetcode-Python/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/0112-path-sum) |
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ayushi8795/Leetcode-Python/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
