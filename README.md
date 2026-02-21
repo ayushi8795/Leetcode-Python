@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0938-range-sum-of-bst) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0938-range-sum-of-bst) |
