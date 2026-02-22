@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0145-binary-tree-postorder-traversal) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0145-binary-tree-postorder-traversal) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/0617-merge-two-binary-trees) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0145-binary-tree-postorder-traversal) |
