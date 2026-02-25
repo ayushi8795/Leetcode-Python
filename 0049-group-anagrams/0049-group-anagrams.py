@@ -3,10 +3,10 @@ class Solution:
         hashi = {}
         
         for word in strs:
-            key = "".join(sorted(word))
-            if key not in hashi:
-                hashi[key] = [word]
+            strWord = "".join(sorted(word))
+            if strWord not in hashi:
+                hashi[strWord] = [word]
             else:
-                hashi[key].append(word)
-
-        return list(hashi.values())
+                hashi[strWord].append(word)
+        
+        return [values for key,values in hashi.items()]
