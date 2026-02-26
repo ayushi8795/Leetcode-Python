@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ayushi8795/Leetcode-Python/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/ayushi8795/Leetcode-Python/tree/master/3794-reverse-string-prefix) |
+| [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/ayushi8795/Leetcode-Python/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/ayushi8795/Leetcode-Python/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ayushi8795/Leetcode-Python/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3822-design-order-management-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/3822-design-order-management-system) |
+| [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/ayushi8795/Leetcode-Python/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
 ## Counting
 |  |
 | ------- |
