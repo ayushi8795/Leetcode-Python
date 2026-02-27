@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ayushi8795/Leetcode-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1063-number-of-valid-subarrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1063-number-of-valid-subarrays) |
+| [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/ayushi8795/Leetcode-Python/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/1441-build-an-array-with-stack-operations) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/ayushi8795/Leetcode-Python/tree/master/0925-long-pressed-name) |
 | [1089-duplicate-zeros](https://github.com/ayushi8795/Leetcode-Python/tree/master/1089-duplicate-zeros) |
+| [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/ayushi8795/Leetcode-Python/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1332-remove-palindromic-subsequences](https://github.com/ayushi8795/Leetcode-Python/tree/master/1332-remove-palindromic-subsequences) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ayushi8795/Leetcode-Python/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1213-intersection-of-three-sorted-arrays) |
+| [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushi8795/Leetcode-Python/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
+| [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/ayushi8795/Leetcode-Python/tree/master/2236-root-equals-sum-of-children) |
@@ -624,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
+| [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
 ## Breadth-First Search
@@ -661,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
+| [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
 | [2236-root-equals-sum-of-children](https://github.com/ayushi8795/Leetcode-Python/tree/master/2236-root-equals-sum-of-children) |
@@ -671,4 +677,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0938-range-sum-of-bst) |
+| [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 <!---LeetCode Topics End-->
