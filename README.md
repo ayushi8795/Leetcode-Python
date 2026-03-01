@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/2485-find-the-pivot-integer) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushi8795/Leetcode-Python/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayushi8795/Leetcode-Python/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayushi8795/Leetcode-Python/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushi8795/Leetcode-Python/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3668-restore-finishing-order](https://github.com/ayushi8795/Leetcode-Python/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ayushi8795/Leetcode-Python/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3206-alternating-groups-i) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3263-convert-doubly-linked-list-to-array-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushi8795/Leetcode-Python/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayushi8795/Leetcode-Python/tree/master/3432-count-partitions-with-even-sum-difference) |
