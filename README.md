@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ayushi8795/Leetcode-Python/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0941-valid-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushi8795/Leetcode-Python/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/ayushi8795/Leetcode-Python/tree/master/1051-height-checker) |
 | [1063-number-of-valid-subarrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1063-number-of-valid-subarrays) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ayushi8795/Leetcode-Python/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/ayushi8795/Leetcode-Python/tree/master/0925-long-pressed-name) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ayushi8795/Leetcode-Python/tree/master/1089-duplicate-zeros) |
 | [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/ayushi8795/Leetcode-Python/tree/master/1265-print-immutable-linked-list-in-reverse) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/ayushi8795/Leetcode-Python/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ayushi8795/Leetcode-Python/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
