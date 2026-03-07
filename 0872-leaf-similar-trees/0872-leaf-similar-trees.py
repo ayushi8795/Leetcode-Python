@@ -22,4 +22,4 @@ class Solution:
                 self.traverse(root.right, rootlis)
 
             if not root.left and not root.right:
-                rootlis.append(root.val)
+                return rootlis.append(root.val)
