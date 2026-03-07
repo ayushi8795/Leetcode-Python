@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
 | [1609-even-odd-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ayushi8795/Leetcode-Python/tree/master/2236-root-equals-sum-of-children) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ayushi8795/Leetcode-Python/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Depth-First Search
 |  |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ayushi8795/Leetcode-Python/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Breadth-First Search
 |  |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
 | [1609-even-odd-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1609-even-odd-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ayushi8795/Leetcode-Python/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Tree
 |  |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
 | [1609-even-odd-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/ayushi8795/Leetcode-Python/tree/master/2236-root-equals-sum-of-children) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ayushi8795/Leetcode-Python/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Search Tree
 |  |
