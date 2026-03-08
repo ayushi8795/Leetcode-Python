@@ -628,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ayushi8795/Leetcode-Python/tree/master/3831-median-of-a-binary-search-tree-level) |
 <!---LeetCode Topics End-->
