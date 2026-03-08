@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0240-search-a-2d-matrix-ii) |
+| [0270-closest-binary-search-tree-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/0270-closest-binary-search-tree-value) |
 | [0278-first-bad-version](https://github.com/ayushi8795/Leetcode-Python/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0226-invert-binary-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/0270-closest-binary-search-tree-value) |
 | [0404-sum-of-left-leaves](https://github.com/ayushi8795/Leetcode-Python/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0450-delete-node-in-a-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0226-invert-binary-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/0270-closest-binary-search-tree-value) |
 | [0404-sum-of-left-leaves](https://github.com/ayushi8795/Leetcode-Python/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/0617-merge-two-binary-trees) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0226-invert-binary-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/0270-closest-binary-search-tree-value) |
 | [0404-sum-of-left-leaves](https://github.com/ayushi8795/Leetcode-Python/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/0617-merge-two-binary-trees) |
@@ -726,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/0270-closest-binary-search-tree-value) |
 | [0450-delete-node-in-a-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0700-search-in-a-binary-search-tree) |
