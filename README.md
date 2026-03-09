@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [1302-deepest-leaves-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
 | [1609-even-odd-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1609-even-odd-tree) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [1302-deepest-leaves-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
 | [1302-deepest-leaves-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
 | [1609-even-odd-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1609-even-odd-tree) |
