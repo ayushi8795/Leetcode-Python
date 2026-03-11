@@ -762,4 +762,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1382-balance-a-binary-search-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ayushi8795/Leetcode-Python/tree/master/3831-median-of-a-binary-search-tree-level) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/ayushi8795/Leetcode-Python/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
