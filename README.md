@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ayushi8795/Leetcode-Python/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1213-intersection-of-three-sorted-arrays) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayushi8795/Leetcode-Python/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/ayushi8795/Leetcode-Python/tree/master/0933-number-of-recent-calls) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [3822-design-order-management-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/3822-design-order-management-system) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/1302-deepest-leaves-sum) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
@@ -741,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1214-two-sum-bsts](https://github.com/ayushi8795/Leetcode-Python/tree/master/1214-two-sum-bsts) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/1325-delete-leaves-with-a-given-value) |
