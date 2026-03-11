@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3450-maximum-students-on-a-single-bench](https://github.com/ayushi8795/Leetcode-Python/tree/master/3450-maximum-students-on-a-single-bench) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ayushi8795/Leetcode-Python/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/ayushi8795/Leetcode-Python/tree/master/3668-restore-finishing-order) |
+| [3682-minimum-index-sum-of-common-elements](https://github.com/ayushi8795/Leetcode-Python/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ayushi8795/Leetcode-Python/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3822-design-order-management-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/3822-design-order-management-system) |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/ayushi8795/Leetcode-Python/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3450-maximum-students-on-a-single-bench](https://github.com/ayushi8795/Leetcode-Python/tree/master/3450-maximum-students-on-a-single-bench) |
 | [3477-fruits-into-baskets-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/3477-fruits-into-baskets-ii) |
 | [3668-restore-finishing-order](https://github.com/ayushi8795/Leetcode-Python/tree/master/3668-restore-finishing-order) |
+| [3682-minimum-index-sum-of-common-elements](https://github.com/ayushi8795/Leetcode-Python/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3687-library-late-fee-calculator](https://github.com/ayushi8795/Leetcode-Python/tree/master/3687-library-late-fee-calculator) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
 ## Heap (Priority Queue)
