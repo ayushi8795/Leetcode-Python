@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ayushi8795/Leetcode-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/ayushi8795/Leetcode-Python/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/ayushi8795/Leetcode-Python/tree/master/0645-set-mismatch) |
+| [0654-maximum-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ayushi8795/Leetcode-Python/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/ayushi8795/Leetcode-Python/tree/master/0682-baseball-game) |
 | [0702-search-in-a-sorted-array-of-unknown-size](https://github.com/ayushi8795/Leetcode-Python/tree/master/0702-search-in-a-sorted-array-of-unknown-size) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ayushi8795/Leetcode-Python/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/ayushi8795/Leetcode-Python/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ayushi8795/Leetcode-Python/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ayushi8795/Leetcode-Python/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0240-search-a-2d-matrix-ii) |
+| [0654-maximum-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1382-balance-a-binary-search-tree) |
 ## Matrix
 |  |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/ayushi8795/Leetcode-Python/tree/master/0739-daily-temperatures) |
 | [1063-number-of-valid-subarrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1063-number-of-valid-subarrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushi8795/Leetcode-Python/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -630,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/0872-leaf-similar-trees) |
@@ -728,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/0872-leaf-similar-trees) |
