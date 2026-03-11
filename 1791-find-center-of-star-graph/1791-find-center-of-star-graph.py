@@ -1,8 +1,8 @@
 class Solution:
     def findCenter(self, edges: List[List[int]]) -> int:
         mapdic = {}
-        maxi = 0
-        keyz = -1
+        edgesCount = len(edges)
+        
         for edge in edges:
             u = edge[0]
             v = edge[1]
@@ -16,7 +16,5 @@ class Solution:
                 mapdic[v] = [u]
 
         for key, value in mapdic.items():
-            if maxi < len(value):
-                maxi = len(value)
-                keyz = key
-        return keyz
+            if edgesCount == len(value):
+                return key
