@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ayushi8795/Leetcode-Python/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3687-library-late-fee-calculator](https://github.com/ayushi8795/Leetcode-Python/tree/master/3687-library-late-fee-calculator) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
+| [3861-minimum-capacity-box](https://github.com/ayushi8795/Leetcode-Python/tree/master/3861-minimum-capacity-box) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
