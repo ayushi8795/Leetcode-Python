@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/ayushi8795/Leetcode-Python/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/ayushi8795/Leetcode-Python/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushi8795/Leetcode-Python/tree/master/0973-k-closest-points-to-origin) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushi8795/Leetcode-Python/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ayushi8795/Leetcode-Python/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/ayushi8795/Leetcode-Python/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushi8795/Leetcode-Python/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0977-squares-of-a-sorted-array) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushi8795/Leetcode-Python/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0654-maximum-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0654-maximum-binary-tree) |
+| [0912-sort-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushi8795/Leetcode-Python/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1382-balance-a-binary-search-tree) |
 ## Matrix
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ayushi8795/Leetcode-Python/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Enumeration
@@ -809,4 +814,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ayushi8795/Leetcode-Python/tree/master/0973-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
