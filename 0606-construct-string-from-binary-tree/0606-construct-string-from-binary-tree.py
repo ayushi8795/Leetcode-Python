@@ -18,7 +18,7 @@ class Solution:
         if not root.left and not root.right:
             return str(root.val)
         
-        #Case 2: Only leaf child 
+        #Case 2: Only left child 
         if root.left and not root.right:
             return str(root.val) + "(" + self.construct(root.left) +")"
         
