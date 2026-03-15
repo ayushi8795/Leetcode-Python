@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushi8795/Leetcode-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/2396-strictly-palindromic-number) |
+| [2469-convert-the-temperature](https://github.com/ayushi8795/Leetcode-Python/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/2485-find-the-pivot-integer) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushi8795/Leetcode-Python/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayushi8795/Leetcode-Python/tree/master/3432-count-partitions-with-even-sum-difference) |
