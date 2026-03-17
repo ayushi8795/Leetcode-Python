@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ayushi8795/Leetcode-Python/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0606-construct-string-from-binary-tree) |
+| [0763-partition-labels](https://github.com/ayushi8795/Leetcode-Python/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/ayushi8795/Leetcode-Python/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/ayushi8795/Leetcode-Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0706-design-hashmap) |
+| [0763-partition-labels](https://github.com/ayushi8795/Leetcode-Python/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/ayushi8795/Leetcode-Python/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0888-fair-candy-swap) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushi8795/Leetcode-Python/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/ayushi8795/Leetcode-Python/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ayushi8795/Leetcode-Python/tree/master/0905-sort-array-by-parity) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/ayushi8795/Leetcode-Python/tree/master/0763-partition-labels) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayushi8795/Leetcode-Python/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1382-balance-a-binary-search-tree) |
 ## Memoization
