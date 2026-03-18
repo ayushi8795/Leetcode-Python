@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1382-balance-a-binary-search-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
 | [1609-even-odd-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1609-even-odd-tree) |
+| [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/ayushi8795/Leetcode-Python/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2236-root-equals-sum-of-children](https://github.com/ayushi8795/Leetcode-Python/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1382-balance-a-binary-search-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushi8795/Leetcode-Python/tree/master/1971-find-if-path-exists-in-graph) |
+| [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/ayushi8795/Leetcode-Python/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ayushi8795/Leetcode-Python/tree/master/3831-median-of-a-binary-search-tree-level) |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1382-balance-a-binary-search-tree) |
 | [1469-find-all-the-lonely-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1469-find-all-the-lonely-nodes) |
 | [1609-even-odd-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1609-even-odd-tree) |
+| [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/ayushi8795/Leetcode-Python/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2236-root-equals-sum-of-children](https://github.com/ayushi8795/Leetcode-Python/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2415-reverse-odd-levels-of-binary-tree) |
