@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ayushi8795/Leetcode-Python/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2942-find-words-containing-character](https://github.com/ayushi8795/Leetcode-Python/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/ayushi8795/Leetcode-Python/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/3174-clear-digits) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ayushi8795/Leetcode-Python/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayushi8795/Leetcode-Python/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
+| [3146-permutation-difference-between-two-strings](https://github.com/ayushi8795/Leetcode-Python/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushi8795/Leetcode-Python/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3450-maximum-students-on-a-single-bench](https://github.com/ayushi8795/Leetcode-Python/tree/master/3450-maximum-students-on-a-single-bench) |
