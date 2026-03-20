@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/ayushi8795/Leetcode-Python/tree/master/1332-remove-palindromic-subsequences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ayushi8795/Leetcode-Python/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ayushi8795/Leetcode-Python/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/ayushi8795/Leetcode-Python/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushi8795/Leetcode-Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/ayushi8795/Leetcode-Python/tree/master/1768-merge-strings-alternately) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1265-print-immutable-linked-list-in-reverse](https://github.com/ayushi8795/Leetcode-Python/tree/master/1265-print-immutable-linked-list-in-reverse) |
 | [1332-remove-palindromic-subsequences](https://github.com/ayushi8795/Leetcode-Python/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushi8795/Leetcode-Python/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ayushi8795/Leetcode-Python/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/ayushi8795/Leetcode-Python/tree/master/1768-merge-strings-alternately) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0572-subtree-of-another-tree) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ayushi8795/Leetcode-Python/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sorting
 |  |
 | ------- |
