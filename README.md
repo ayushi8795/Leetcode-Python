@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2562-find-the-array-concatenation-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/2562-find-the-array-concatenation-value) |
 | [2574-left-and-right-sum-differences](https://github.com/ayushi8795/Leetcode-Python/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayushi8795/Leetcode-Python/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ayushi8795/Leetcode-Python/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/2396-strictly-palindromic-number) |
+| [2562-find-the-array-concatenation-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ayushi8795/Leetcode-Python/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/ayushi8795/Leetcode-Python/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2562-find-the-array-concatenation-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/2562-find-the-array-concatenation-value) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ayushi8795/Leetcode-Python/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3028-ant-on-the-boundary](https://github.com/ayushi8795/Leetcode-Python/tree/master/3028-ant-on-the-boundary) |
 | [3174-clear-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/3174-clear-digits) |
