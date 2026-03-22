@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayushi8795/Leetcode-Python/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ayushi8795/Leetcode-Python/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2942-find-words-containing-character](https://github.com/ayushi8795/Leetcode-Python/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/3110-score-of-a-string) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushi8795/Leetcode-Python/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ayushi8795/Leetcode-Python/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/3174-clear-digits) |
 ## Two Pointers
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/2390-removing-stars-from-a-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/ayushi8795/Leetcode-Python/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2562-find-the-array-concatenation-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/2562-find-the-array-concatenation-value) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ayushi8795/Leetcode-Python/tree/master/2696-minimum-string-length-after-removing-substrings) |
