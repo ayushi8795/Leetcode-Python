@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ayushi8795/Leetcode-Python/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ayushi8795/Leetcode-Python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ayushi8795/Leetcode-Python/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ayushi8795/Leetcode-Python/tree/master/0367-valid-perfect-square) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayushi8795/Leetcode-Python/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ayushi8795/Leetcode-Python/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0359-logger-rate-limiter](https://github.com/ayushi8795/Leetcode-Python/tree/master/0359-logger-rate-limiter) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/ayushi8795/Leetcode-Python/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0243-shortest-word-distance](https://github.com/ayushi8795/Leetcode-Python/tree/master/0243-shortest-word-distance) |
+| [0268-missing-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayushi8795/Leetcode-Python/tree/master/0283-move-zeroes) |
 | [0346-moving-average-from-data-stream](https://github.com/ayushi8795/Leetcode-Python/tree/master/0346-moving-average-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0268-missing-number) |
 | [0270-closest-binary-search-tree-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/0270-closest-binary-search-tree-value) |
 | [0278-first-bad-version](https://github.com/ayushi8795/Leetcode-Python/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushi8795/Leetcode-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushi8795/Leetcode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushi8795/Leetcode-Python/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0414-third-maximum-number) |
@@ -596,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushi8795/Leetcode-Python/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ayushi8795/Leetcode-Python/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ayushi8795/Leetcode-Python/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ayushi8795/Leetcode-Python/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushi8795/Leetcode-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
