@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ayushi8795/Leetcode-Python/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/1603-design-parking-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ayushi8795/Leetcode-Python/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/1441-build-an-array-with-stack-operations) |
+| [1603-design-parking-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/1603-design-parking-system) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushi8795/Leetcode-Python/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushi8795/Leetcode-Python/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushi8795/Leetcode-Python/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
+| [1603-design-parking-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/1603-design-parking-system) |
 | [3822-design-order-management-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/3822-design-order-management-system) |
 ## Bit Manipulation
 |  |
