@@ -4,19 +4,19 @@ class Solution:
 
         for row in range(len(mat)):
             count = 0
+            # can use sum(mat[row]) as well.
             for item in mat[row]:
                 if item == 1:
                     count+=1
             if count != 0:
                 lis[row] = count
 
-        maxVal = -1
-        keyIndex = -1
+        maxVal = 0
+        keyIndex = 0
         for key,value in lis.items():
             if maxVal < value:
                 maxVal = value
                 keyIndex = key
-        if keyIndex != -1:
-            return [keyIndex,maxVal]
-        else:
-            return [0,0]
+
+        return [keyIndex,maxVal]
+
