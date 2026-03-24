@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ayushi8795/Leetcode-Python/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/ayushi8795/Leetcode-Python/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/ayushi8795/Leetcode-Python/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2562-find-the-array-concatenation-value](https://github.com/ayushi8795/Leetcode-Python/tree/master/2562-find-the-array-concatenation-value) |
 | [2574-left-and-right-sum-differences](https://github.com/ayushi8795/Leetcode-Python/tree/master/2574-left-and-right-sum-differences) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/ayushi8795/Leetcode-Python/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ayushi8795/Leetcode-Python/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/ayushi8795/Leetcode-Python/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ayushi8795/Leetcode-Python/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ayushi8795/Leetcode-Python/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/ayushi8795/Leetcode-Python/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushi8795/Leetcode-Python/tree/master/2965-find-missing-and-repeated-values) |
 ## Doubly-Linked List
 |  |
