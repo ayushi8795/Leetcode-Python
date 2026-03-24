@@ -16,10 +16,7 @@ class SubrectangleQueries:
 
 
     def getValue(self, row: int, col: int) -> int:
-        for r in range(self.row_len):
-            for c in range(self.col_len):
-                if r == row and c == col:
-                    return self.rectangle[r][c]
+            return self.rectangle[row][col]
         
 
 
