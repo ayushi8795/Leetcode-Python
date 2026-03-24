@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushi8795/Leetcode-Python/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1476-subrectangle-queries](https://github.com/ayushi8795/Leetcode-Python/tree/master/1476-subrectangle-queries) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1539-kth-missing-positive-number) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/ayushi8795/Leetcode-Python/tree/master/0933-number-of-recent-calls) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1476-subrectangle-queries](https://github.com/ayushi8795/Leetcode-Python/tree/master/1476-subrectangle-queries) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1603-design-parking-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/1603-design-parking-system) |
 | [3242-design-neighbor-sum-service](https://github.com/ayushi8795/Leetcode-Python/tree/master/3242-design-neighbor-sum-service) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/ayushi8795/Leetcode-Python/tree/master/0867-transpose-matrix) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ayushi8795/Leetcode-Python/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushi8795/Leetcode-Python/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1476-subrectangle-queries](https://github.com/ayushi8795/Leetcode-Python/tree/master/1476-subrectangle-queries) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ayushi8795/Leetcode-Python/tree/master/1672-richest-customer-wealth) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ayushi8795/Leetcode-Python/tree/master/2373-largest-local-values-in-a-matrix) |
