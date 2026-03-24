@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/ayushi8795/Leetcode-Python/tree/master/2965-find-missing-and-repeated-values) |
 | [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/ayushi8795/Leetcode-Python/tree/master/3146-permutation-difference-between-two-strings) |
+| [3242-design-neighbor-sum-service](https://github.com/ayushi8795/Leetcode-Python/tree/master/3242-design-neighbor-sum-service) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushi8795/Leetcode-Python/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3450-maximum-students-on-a-single-bench](https://github.com/ayushi8795/Leetcode-Python/tree/master/3450-maximum-students-on-a-single-bench) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ayushi8795/Leetcode-Python/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3206-alternating-groups-i) |
+| [3242-design-neighbor-sum-service](https://github.com/ayushi8795/Leetcode-Python/tree/master/3242-design-neighbor-sum-service) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushi8795/Leetcode-Python/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/ayushi8795/Leetcode-Python/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/ayushi8795/Leetcode-Python/tree/master/3028-ant-on-the-boundary) |
 | [3174-clear-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/3174-clear-digits) |
+| [3242-design-neighbor-sum-service](https://github.com/ayushi8795/Leetcode-Python/tree/master/3242-design-neighbor-sum-service) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/3477-fruits-into-baskets-ii) |
 | [3687-library-late-fee-calculator](https://github.com/ayushi8795/Leetcode-Python/tree/master/3687-library-late-fee-calculator) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/ayushi8795/Leetcode-Python/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1603-design-parking-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/1603-design-parking-system) |
+| [3242-design-neighbor-sum-service](https://github.com/ayushi8795/Leetcode-Python/tree/master/3242-design-neighbor-sum-service) |
 | [3822-design-order-management-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/3822-design-order-management-system) |
 ## Bit Manipulation
 |  |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ayushi8795/Leetcode-Python/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2643-row-with-maximum-ones](https://github.com/ayushi8795/Leetcode-Python/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushi8795/Leetcode-Python/tree/master/2965-find-missing-and-repeated-values) |
+| [3242-design-neighbor-sum-service](https://github.com/ayushi8795/Leetcode-Python/tree/master/3242-design-neighbor-sum-service) |
 ## Doubly-Linked List
 |  |
 | ------- |
