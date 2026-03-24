@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3151-special-array-i) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ayushi8795/Leetcode-Python/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3206-alternating-groups-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3206-alternating-groups-i) |
 | [3242-design-neighbor-sum-service](https://github.com/ayushi8795/Leetcode-Python/tree/master/3242-design-neighbor-sum-service) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3263-convert-doubly-linked-list-to-array-i) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ayushi8795/Leetcode-Python/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2643-row-with-maximum-ones](https://github.com/ayushi8795/Leetcode-Python/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushi8795/Leetcode-Python/tree/master/2965-find-missing-and-repeated-values) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3242-design-neighbor-sum-service](https://github.com/ayushi8795/Leetcode-Python/tree/master/3242-design-neighbor-sum-service) |
 ## Doubly-Linked List
 |  |
