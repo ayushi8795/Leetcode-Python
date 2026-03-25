@@ -795,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/ayushi8795/Leetcode-Python/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2236-root-equals-sum-of-children](https://github.com/ayushi8795/Leetcode-Python/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ayushi8795/Leetcode-Python/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Depth-First Search
@@ -836,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushi8795/Leetcode-Python/tree/master/1971-find-if-path-exists-in-graph) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/ayushi8795/Leetcode-Python/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ayushi8795/Leetcode-Python/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Breadth-First Search
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/ayushi8795/Leetcode-Python/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2236-root-equals-sum-of-children](https://github.com/ayushi8795/Leetcode-Python/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ayushi8795/Leetcode-Python/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Search Tree
