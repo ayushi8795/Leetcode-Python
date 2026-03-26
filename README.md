@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushi8795/Leetcode-Python/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2396-strictly-palindromic-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/2396-strictly-palindromic-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/ayushi8795/Leetcode-Python/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushi8795/Leetcode-Python/tree/master/2965-find-missing-and-repeated-values) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-finding-the-users-active-minutes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1817-finding-the-users-active-minutes) |
 | [1852-distinct-numbers-in-each-subarray](https://github.com/ayushi8795/Leetcode-Python/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayushi8795/Leetcode-Python/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushi8795/Leetcode-Python/tree/master/2965-find-missing-and-repeated-values) |
 | [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/1603-design-parking-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ayushi8795/Leetcode-Python/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ayushi8795/Leetcode-Python/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ayushi8795/Leetcode-Python/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ayushi8795/Leetcode-Python/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ayushi8795/Leetcode-Python/tree/master/2545-sort-the-students-by-their-kth-score) |
