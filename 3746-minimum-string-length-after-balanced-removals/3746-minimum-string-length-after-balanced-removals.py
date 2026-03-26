@@ -6,7 +6,6 @@ class Solution:
         for i in s:
             if not stack:
                 stack.append(i)
-                print("if",stack)
             else:
                 if i == "a" and stack[-1] =="b":
                     stack.pop()
