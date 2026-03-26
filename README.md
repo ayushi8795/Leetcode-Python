@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ayushi8795/Leetcode-Python/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3696-maximum-distance-between-unequal-words-in-array-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3696-maximum-distance-between-unequal-words-in-array-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ayushi8795/Leetcode-Python/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ayushi8795/Leetcode-Python/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/ayushi8795/Leetcode-Python/tree/master/3794-reverse-string-prefix) |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/ayushi8795/Leetcode-Python/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ayushi8795/Leetcode-Python/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ayushi8795/Leetcode-Python/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Array
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ayushi8795/Leetcode-Python/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/3174-clear-digits) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ayushi8795/Leetcode-Python/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Two Pointers
 |  |
 | ------- |
