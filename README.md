@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-minimum-index-sum-of-common-elements](https://github.com/ayushi8795/Leetcode-Python/tree/master/3682-minimum-index-sum-of-common-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ayushi8795/Leetcode-Python/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3822-design-order-management-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/3822-design-order-management-system) |
+| [3829-design-ride-sharing-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/3829-design-ride-sharing-system) |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/ayushi8795/Leetcode-Python/tree/master/3846-total-distance-to-type-a-string-using-one-finger) |
 ## Counting
 |  |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/1603-design-parking-system) |
 | [3242-design-neighbor-sum-service](https://github.com/ayushi8795/Leetcode-Python/tree/master/3242-design-neighbor-sum-service) |
 | [3822-design-order-management-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/3822-design-order-management-system) |
+| [3829-design-ride-sharing-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/3829-design-ride-sharing-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushi8795/Leetcode-Python/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushi8795/Leetcode-Python/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3829-design-ride-sharing-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/3829-design-ride-sharing-system) |
 ## Brainteaser
 |  |
 | ------- |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/ayushi8795/Leetcode-Python/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/ayushi8795/Leetcode-Python/tree/master/0359-logger-rate-limiter) |
 | [0933-number-of-recent-calls](https://github.com/ayushi8795/Leetcode-Python/tree/master/0933-number-of-recent-calls) |
+| [3829-design-ride-sharing-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/3829-design-ride-sharing-system) |
 ## Hash Function
 |  |
 | ------- |
