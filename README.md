@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/ayushi8795/Leetcode-Python/tree/master/0904-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/ayushi8795/Leetcode-Python/tree/master/0997-find-the-town-judge) |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1165-single-row-keyboard](https://github.com/ayushi8795/Leetcode-Python/tree/master/1165-single-row-keyboard) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0922-sort-array-by-parity-ii) |
 | [0937-reorder-data-in-log-files](https://github.com/ayushi8795/Leetcode-Python/tree/master/0937-reorder-data-in-log-files) |
 | [0941-valid-mountain-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0941-valid-mountain-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushi8795/Leetcode-Python/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/ayushi8795/Leetcode-Python/tree/master/0997-find-the-town-judge) |
