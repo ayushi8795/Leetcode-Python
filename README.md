@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0922-sort-array-by-parity-ii) |
 | [0937-reorder-data-in-log-files](https://github.com/ayushi8795/Leetcode-Python/tree/master/0937-reorder-data-in-log-files) |
 | [0941-valid-mountain-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0941-valid-mountain-array) |
+| [0946-validate-stack-sequences](https://github.com/ayushi8795/Leetcode-Python/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushi8795/Leetcode-Python/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0977-squares-of-a-sorted-array) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ayushi8795/Leetcode-Python/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ayushi8795/Leetcode-Python/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/ayushi8795/Leetcode-Python/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/ayushi8795/Leetcode-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1063-number-of-valid-subarrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1063-number-of-valid-subarrays) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ayushi8795/Leetcode-Python/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/ayushi8795/Leetcode-Python/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/ayushi8795/Leetcode-Python/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/1441-build-an-array-with-stack-operations) |
 | [1603-design-parking-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/1603-design-parking-system) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushi8795/Leetcode-Python/tree/master/1700-number-of-students-unable-to-eat-lunch) |
