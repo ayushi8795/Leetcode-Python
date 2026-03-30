@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/ayushi8795/Leetcode-Python/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/2485-find-the-pivot-integer) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushi8795/Leetcode-Python/tree/master/2965-find-missing-and-repeated-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushi8795/Leetcode-Python/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/1474-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3062-winner-of-the-linked-list-game](https://github.com/ayushi8795/Leetcode-Python/tree/master/3062-winner-of-the-linked-list-game) |
 | [3063-linked-list-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/3063-linked-list-frequency) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3263-convert-doubly-linked-list-to-array-i) |
@@ -1011,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/ayushi8795/Leetcode-Python/tree/master/2413-smallest-even-multiple) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ayushi8795/Leetcode-Python/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Backtracking
 |  |
 | ------- |
