@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1852-distinct-numbers-in-each-subarray](https://github.com/ayushi8795/Leetcode-Python/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayushi8795/Leetcode-Python/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushi8795/Leetcode-Python/tree/master/2965-find-missing-and-repeated-values) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ayushi8795/Leetcode-Python/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/ayushi8795/Leetcode-Python/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ayushi8795/Leetcode-Python/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
