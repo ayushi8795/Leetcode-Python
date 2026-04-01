@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ayushi8795/Leetcode-Python/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/ayushi8795/Leetcode-Python/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushi8795/Leetcode-Python/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ayushi8795/Leetcode-Python/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/ayushi8795/Leetcode-Python/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushi8795/Leetcode-Python/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1429-first-unique-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1429-first-unique-number) |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ayushi8795/Leetcode-Python/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1817-finding-the-users-active-minutes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1817-finding-the-users-active-minutes) |
 | [1852-distinct-numbers-in-each-subarray](https://github.com/ayushi8795/Leetcode-Python/tree/master/1852-distinct-numbers-in-each-subarray) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ayushi8795/Leetcode-Python/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/ayushi8795/Leetcode-Python/tree/master/1603-design-parking-system) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ayushi8795/Leetcode-Python/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/ayushi8795/Leetcode-Python/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/ayushi8795/Leetcode-Python/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ayushi8795/Leetcode-Python/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushi8795/Leetcode-Python/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/ayushi8795/Leetcode-Python/tree/master/1732-find-the-highest-altitude) |
 | [1762-buildings-with-an-ocean-view](https://github.com/ayushi8795/Leetcode-Python/tree/master/1762-buildings-with-an-ocean-view) |
@@ -679,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ayushi8795/Leetcode-Python/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/ayushi8795/Leetcode-Python/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushi8795/Leetcode-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ayushi8795/Leetcode-Python/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3173-bitwise-or-of-adjacent-elements](https://github.com/ayushi8795/Leetcode-Python/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushi8795/Leetcode-Python/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
