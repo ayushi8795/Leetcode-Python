@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ayushi8795/Leetcode-Python/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2325-decode-the-message](https://github.com/ayushi8795/Leetcode-Python/tree/master/2325-decode-the-message) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayushi8795/Leetcode-Python/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ayushi8795/Leetcode-Python/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2325-decode-the-message](https://github.com/ayushi8795/Leetcode-Python/tree/master/2325-decode-the-message) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ayushi8795/Leetcode-Python/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushi8795/Leetcode-Python/tree/master/2965-find-missing-and-repeated-values) |
