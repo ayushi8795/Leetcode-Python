@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/ayushi8795/Leetcode-Python/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0706-design-hashmap) |
+| [0760-find-anagram-mappings](https://github.com/ayushi8795/Leetcode-Python/tree/master/0760-find-anagram-mappings) |
 | [0763-partition-labels](https://github.com/ayushi8795/Leetcode-Python/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/ayushi8795/Leetcode-Python/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0819-most-common-word) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ayushi8795/Leetcode-Python/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushi8795/Leetcode-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ayushi8795/Leetcode-Python/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0760-find-anagram-mappings](https://github.com/ayushi8795/Leetcode-Python/tree/master/0760-find-anagram-mappings) |
 | [0819-most-common-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/ayushi8795/Leetcode-Python/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0852-peak-index-in-a-mountain-array) |
