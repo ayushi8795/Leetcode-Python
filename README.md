@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ayushi8795/Leetcode-Python/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ayushi8795/Leetcode-Python/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ayushi8795/Leetcode-Python/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushi8795/Leetcode-Python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ayushi8795/Leetcode-Python/tree/master/0169-majority-element) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ayushi8795/Leetcode-Python/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ayushi8795/Leetcode-Python/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ayushi8795/Leetcode-Python/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ayushi8795/Leetcode-Python/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushi8795/Leetcode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ayushi8795/Leetcode-Python/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/ayushi8795/Leetcode-Python/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/ayushi8795/Leetcode-Python/tree/master/0867-transpose-matrix) |
