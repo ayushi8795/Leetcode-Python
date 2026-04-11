@@ -868,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2689-extract-kth-character-from-the-rope-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ayushi8795/Leetcode-Python/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Depth-First Search
 |  |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2689-extract-kth-character-from-the-rope-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ayushi8795/Leetcode-Python/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Breadth-First Search
 |  |
@@ -993,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2689-extract-kth-character-from-the-rope-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/2689-extract-kth-character-from-the-rope-tree) |
 | [3831-median-of-a-binary-search-tree-level](https://github.com/ayushi8795/Leetcode-Python/tree/master/3831-median-of-a-binary-search-tree-level) |
 ## Binary Search Tree
 |  |
