@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1429-first-unique-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1429-first-unique-number) |
 | [1512-number-of-good-pairs](https://github.com/ayushi8795/Leetcode-Python/tree/master/1512-number-of-good-pairs) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushi8795/Leetcode-Python/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1817-finding-the-users-active-minutes](https://github.com/ayushi8795/Leetcode-Python/tree/master/1817-finding-the-users-active-minutes) |
 | [1852-distinct-numbers-in-each-subarray](https://github.com/ayushi8795/Leetcode-Python/tree/master/1852-distinct-numbers-in-each-subarray) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1539-kth-missing-positive-number) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/ayushi8795/Leetcode-Python/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushi8795/Leetcode-Python/tree/master/1572-matrix-diagonal-sum) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/ayushi8795/Leetcode-Python/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushi8795/Leetcode-Python/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/ayushi8795/Leetcode-Python/tree/master/1672-richest-customer-wealth) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushi8795/Leetcode-Python/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ayushi8795/Leetcode-Python/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/ayushi8795/Leetcode-Python/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ayushi8795/Leetcode-Python/tree/master/2545-sort-the-students-by-their-kth-score) |
