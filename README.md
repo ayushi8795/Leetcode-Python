@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushi8795/Leetcode-Python/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2103-rings-and-rods](https://github.com/ayushi8795/Leetcode-Python/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ayushi8795/Leetcode-Python/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/ayushi8795/Leetcode-Python/tree/master/2325-decode-the-message) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/ayushi8795/Leetcode-Python/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1940-longest-common-subsequence-between-sorted-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1940-longest-common-subsequence-between-sorted-arrays) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2103-rings-and-rods](https://github.com/ayushi8795/Leetcode-Python/tree/master/2103-rings-and-rods) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2325-decode-the-message](https://github.com/ayushi8795/Leetcode-Python/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/ayushi8795/Leetcode-Python/tree/master/2418-sort-the-people) |
