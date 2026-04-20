@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/ayushi8795/Leetcode-Python/tree/master/0709-to-lower-case) |
 | [0763-partition-labels](https://github.com/ayushi8795/Leetcode-Python/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/ayushi8795/Leetcode-Python/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/ayushi8795/Leetcode-Python/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/ayushi8795/Leetcode-Python/tree/master/0917-reverse-only-letters) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0760-find-anagram-mappings](https://github.com/ayushi8795/Leetcode-Python/tree/master/0760-find-anagram-mappings) |
 | [0763-partition-labels](https://github.com/ayushi8795/Leetcode-Python/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/ayushi8795/Leetcode-Python/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/ayushi8795/Leetcode-Python/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/ayushi8795/Leetcode-Python/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/ayushi8795/Leetcode-Python/tree/master/0904-fruit-into-baskets) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayushi8795/Leetcode-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ayushi8795/Leetcode-Python/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0760-find-anagram-mappings](https://github.com/ayushi8795/Leetcode-Python/tree/master/0760-find-anagram-mappings) |
+| [0804-unique-morse-code-words](https://github.com/ayushi8795/Leetcode-Python/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/ayushi8795/Leetcode-Python/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0852-peak-index-in-a-mountain-array) |
