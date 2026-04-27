@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1165-single-row-keyboard](https://github.com/ayushi8795/Leetcode-Python/tree/master/1165-single-row-keyboard) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ayushi8795/Leetcode-Python/tree/master/1198-find-smallest-common-element-in-all-rows) |
+| [1207-unique-number-of-occurrences](https://github.com/ayushi8795/Leetcode-Python/tree/master/1207-unique-number-of-occurrences) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayushi8795/Leetcode-Python/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/ayushi8795/Leetcode-Python/tree/master/1089-duplicate-zeros) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ayushi8795/Leetcode-Python/tree/master/1198-find-smallest-common-element-in-all-rows) |
+| [1207-unique-number-of-occurrences](https://github.com/ayushi8795/Leetcode-Python/tree/master/1207-unique-number-of-occurrences) |
 | [1213-intersection-of-three-sorted-arrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1213-intersection-of-three-sorted-arrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ayushi8795/Leetcode-Python/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/1295-find-numbers-with-even-number-of-digits) |
