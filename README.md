@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/ayushi8795/Leetcode-Python/tree/master/0997-find-the-town-judge) |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/ayushi8795/Leetcode-Python/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
+| [1133-largest-unique-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1133-largest-unique-number) |
 | [1165-single-row-keyboard](https://github.com/ayushi8795/Leetcode-Python/tree/master/1165-single-row-keyboard) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ayushi8795/Leetcode-Python/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushi8795/Leetcode-Python/tree/master/1207-unique-number-of-occurrences) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-number-of-valid-subarrays](https://github.com/ayushi8795/Leetcode-Python/tree/master/1063-number-of-valid-subarrays) |
 | [1064-fixed-point](https://github.com/ayushi8795/Leetcode-Python/tree/master/1064-fixed-point) |
 | [1089-duplicate-zeros](https://github.com/ayushi8795/Leetcode-Python/tree/master/1089-duplicate-zeros) |
+| [1133-largest-unique-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1133-largest-unique-number) |
 | [1150-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/1150-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/ayushi8795/Leetcode-Python/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushi8795/Leetcode-Python/tree/master/1207-unique-number-of-occurrences) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ayushi8795/Leetcode-Python/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushi8795/Leetcode-Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ayushi8795/Leetcode-Python/tree/master/1051-height-checker) |
+| [1133-largest-unique-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1133-largest-unique-number) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ayushi8795/Leetcode-Python/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushi8795/Leetcode-Python/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
