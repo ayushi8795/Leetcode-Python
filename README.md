@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ayushi8795/Leetcode-Python/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/ayushi8795/Leetcode-Python/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/ayushi8795/Leetcode-Python/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayushi8795/Leetcode-Python/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -854,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ayushi8795/Leetcode-Python/tree/master/0396-rotate-function) |
 | [0487-max-consecutive-ones-ii](https://github.com/ayushi8795/Leetcode-Python/tree/master/0487-max-consecutive-ones-ii) |
 | [0509-fibonacci-number](https://github.com/ayushi8795/Leetcode-Python/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/ayushi8795/Leetcode-Python/tree/master/0788-rotated-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
