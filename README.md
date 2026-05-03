@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/ayushi8795/Leetcode-Python/tree/master/0709-to-lower-case) |
 | [0763-partition-labels](https://github.com/ayushi8795/Leetcode-Python/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/ayushi8795/Leetcode-Python/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/ayushi8795/Leetcode-Python/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/ayushi8795/Leetcode-Python/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/ayushi8795/Leetcode-Python/tree/master/0844-backspace-string-compare) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ayushi8795/Leetcode-Python/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/ayushi8795/Leetcode-Python/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ayushi8795/Leetcode-Python/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/ayushi8795/Leetcode-Python/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Sorting
